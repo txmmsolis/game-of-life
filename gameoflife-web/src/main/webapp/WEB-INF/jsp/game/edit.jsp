@@ -87,7 +87,7 @@
 <div class="breadcrumbs">
     <a href="${homePage}">home</a> > New Game
 </div>
-<div class="intro">Please seed your universe</div>
+<div id="seedUniverseDiv" class="intro">Please seed your universe</div>
 <div class="griddisplay">
     <form action="${startPage}" method="get">
         <input type="hidden" name="rows" value="3"/>
