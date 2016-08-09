@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to Conway's Game Of Life! 08/08/2016</h2>
+<h2>Welcome to Conway's Game Of Life! 08/08/2016 10:10 pm</h2>
 
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of
