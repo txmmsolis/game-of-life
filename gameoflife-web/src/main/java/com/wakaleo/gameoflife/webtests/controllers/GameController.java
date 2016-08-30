@@ -19,8 +19,8 @@ public class GameController {
 
     @RequestMapping("/new")
     public ModelAndView newGame() {
-        ModelAndView mav =  ModelAndView("game/edit");
-        Universe universe =  Universe();
+        ModelAndView mav = new ModelAndView("game/edit");
+        Universe universe = new Universe();
         mav.addObject("universe", universe);
         thinkABit(250);
         return mav;
