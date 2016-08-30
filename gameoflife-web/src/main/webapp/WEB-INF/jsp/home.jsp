@@ -91,7 +91,7 @@
     </p>
 </div>
 
-<c:url value="/game/new" var="newGamePage"/>
+<c:url value="/game/start" var="newGamePage"/>
 <div class="action-button">
     <a href="${newGamePage}">New Game</a>
 </div>
